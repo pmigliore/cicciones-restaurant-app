@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Restaurant App Template",
+    "slug": "restaurantAppTemplate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/c5599d739a20417ba5a952b55060331f.png",
+    "splash": {
+      "image": "./assets/splashScreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "buildNumber": "11",
+      "bundleIdentifier": "com.piersalvomigliore.restaurantAppTemplate",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the camera to scan cards.",
+        "NSLocationWhenInUseUsageDescription": "This app uses location to enable the delivery service."
+      }
+    },
+    "android": {
+      "package": "com.restaurant.AppTemplate",
+      "versionCode": 1,
+      "softwareKeyboardLayoutMode": "pan",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

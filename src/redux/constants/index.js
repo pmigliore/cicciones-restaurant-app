@@ -1,0 +1,11 @@
+export const USER_STATE_CHANGE = "USER_STATE_CHANGE";
+export const ID_TOKEN = "ID_TOKEN";
+export const ACCESS_TOKEN = "ACCESS_TOKEN";
+export const GOOGLE_SIGN_IN = "GOOGLE_SIGN_IN";
+export const ADD_ITEM_TO_ORDER = "ADD_ITEM_TO_ORDER";
+export const UPDATE_ITEM = "UPDATE_ITEM";
+export const REMOVE_ITEM = "REMOVE_ITEM";
+export const TRIG_SEARCH = "TRIG_SEARCH";
+export const USER_ADDRESS = "USER_ADDRESS";
+export const CLEAR_ORDER = "CLEAR_ORDER";
+export const MENU = "MENU";
