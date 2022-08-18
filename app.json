@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Restaurant App Template",
-    "slug": "restaurantAppTemplate",
+    "name": "Ciccione's",
+    "slug": "ciccionesRestaurant",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/c5599d739a20417ba5a952b55060331f.png",
@@ -18,16 +18,16 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "buildNumber": "11",
-      "bundleIdentifier": "com.piersalvomigliore.restaurantAppTemplate",
+      "buildNumber": "12",
+      "bundleIdentifier": "com.piersalvomigliore.ciccionesRestaurant",
       "infoPlist": {
         "NSCameraUsageDescription": "This app uses the camera to scan cards.",
         "NSLocationWhenInUseUsageDescription": "This app uses location to enable the delivery service."
       }
     },
     "android": {
-      "package": "com.restaurant.AppTemplate",
-      "versionCode": 1,
+      "package": "com.restaurant.ciccionesRestaurant",
+      "versionCode": 2,
       "softwareKeyboardLayoutMode": "pan",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",

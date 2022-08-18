@@ -206,7 +206,8 @@ const styles = StyleSheet.create({
     borderColor: '#D5D5D5',
     flexDirection: 'row',
     alignItems: 'center',
-    padding:15
+    padding:15,
+    maxHeight: 70,
   },
   daysTxt: {
     fontSize: 14,
