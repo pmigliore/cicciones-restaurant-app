@@ -5,13 +5,13 @@ import { getDatabase } from 'firebase/database';
 import { getFunctions } from 'firebase/functions';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDW_ZjxW8n1WDURkY6nvN4aUNuUXJ8eQXY",
-  authDomain: "restaurantapptemplate-691c3.firebaseapp.com",
-  projectId: "restaurantapptemplate-691c3",
-  storageBucket: "restaurantapptemplate-691c3.appspot.com",
-  messagingSenderId: "1092201071579",
-  appId: "1:1092201071579:web:cb2b8cb9329e011a0addfe",
-  measurementId: "G-9ZW5EECKL5"
+  apiKey: "XXXXXXXXXXXXXXXXXX",
+  authDomain: "XXXXXXXXXXXXXXXXXX",
+  projectId: "XXXXXXXXXXXXXXXXXX",
+  storageBucket: "XXXXXXXXXXXXXXXXXX",
+  messagingSenderId: "XXXXXXXXXXXXXXXXXX",
+  appId: "XXXXXXXXXXXXXXXXXX",
+  measurementId: "XXXXXXXXXXXXXXXXXX"
 };
 
 let app = initializeApp(firebaseConfig);
